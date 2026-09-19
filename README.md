@@ -31,10 +31,6 @@ A polished browser game arcade. Open `index.html` in a modern browser to play.
 
 Open `index.html` directly, or serve the folder with any static file server.
 
-## 在线体验 / Live Demo
-
-https://arcade-lab-71ming.jason2604269027.chatgpt.site
-
 ## 许可证 / License
 
 未额外指定许可证。使用、修改或再发布前，请先联系作者。
